@@ -1,0 +1,6 @@
+C:\Users\bober\source\repos\Database1\bin\Debug\Database1.dacpac
+C:\Users\bober\source\repos\Database1\obj\Debug\Database1.sqlprojAssemblyReference.cache
+C:\Users\bober\source\repos\Database1\bin\Debug\Database1.dll
+C:\Users\bober\source\repos\Database1\bin\Debug\Database1.pdb
+C:\Users\bober\source\repos\Database1\obj\Debug\Database1.dll
+C:\Users\bober\source\repos\Database1\obj\Debug\Database1.pdb

@@ -1,0 +1,86 @@
+29.05.2022 14:54:04	This log contains information about the import schema operation into project 'Database1' on computer 'LAPTOP-MVRBJQ6M' by user 'bober'.
+29.05.2022 14:54:04	Import of database schema has started.
+29.05.2022 14:54:24	Gathering database credentials
+29.05.2022 14:54:24	Gathering database options
+29.05.2022 14:54:24	Gathering generic database scoped configuration option
+29.05.2022 14:54:24	Gathering users
+29.05.2022 14:54:24	Gathering roles
+29.05.2022 14:54:24	Gathering application roles
+29.05.2022 14:54:24	Gathering role memberships
+29.05.2022 14:54:24	Gathering filegroups
+29.05.2022 14:54:24	Gathering full-text catalogs
+29.05.2022 14:54:24	Gathering assemblies
+29.05.2022 14:54:24	Gathering certificates
+29.05.2022 14:54:24	Gathering asymmetric keys
+29.05.2022 14:54:24	Gathering symmetric keys
+29.05.2022 14:54:24	Gathering encrypted symmetric keys
+29.05.2022 14:54:24	Gathering schemas
+29.05.2022 14:54:24	Gathering XML schema collections
+29.05.2022 14:54:24	Gathering user-defined data types
+29.05.2022 14:54:24	Gathering user-defined types
+29.05.2022 14:54:24	Gathering table types
+29.05.2022 14:54:24	Gathering unique keys for table types
+29.05.2022 14:54:24	Gathering primary keys for table types
+29.05.2022 14:54:24	Gathering indexes for table types
+29.05.2022 14:54:29	Gathering check constraints for table types
+29.05.2022 14:54:29	Gathering default constraints for table types
+29.05.2022 14:54:29	Gathering partition functions
+29.05.2022 14:54:29	Gathering partition schemes
+29.05.2022 14:54:29	Gathering functions
+29.05.2022 14:54:29	Gathering encrypted functions
+29.05.2022 14:54:29	Gathering aggregates
+29.05.2022 14:54:29	Gathering procedures
+29.05.2022 14:54:29	Gathering encrypted procedures
+29.05.2022 14:54:29	Gathering tables
+29.05.2022 14:54:29	Gathering primary keys
+29.05.2022 14:54:29	Gathering unique constraints
+29.05.2022 14:54:29	Gathering foreign keys
+29.05.2022 14:54:30	Gathering default constraints
+29.05.2022 14:54:30	Gathering check constraints
+29.05.2022 14:54:30	Gathering views
+29.05.2022 14:54:30	Gathering encrypted views
+29.05.2022 14:54:30	Gathering indexes
+29.05.2022 14:54:30	Gathering statistics
+29.05.2022 14:54:30	Gathering full-text index stoplists
+29.05.2022 14:54:30	Gathering search property lists
+29.05.2022 14:54:30	Gathering search properties
+29.05.2022 14:54:30	Gathering full-text indexes
+29.05.2022 14:54:30	Gathering column store indexes
+29.05.2022 14:54:30	Gathering spatial indexes
+29.05.2022 14:54:30	Gathering XML indexes
+29.05.2022 14:54:30	Gathering Selective XML indexes
+29.05.2022 14:54:30	Gathering encrypted triggers
+29.05.2022 14:54:30	Gathering triggers
+29.05.2022 14:54:30	Gathering encrypted and clr ddl triggers
+29.05.2022 14:54:30	Gathering ddl triggers
+29.05.2022 14:54:30	Creating edge constraints
+29.05.2022 14:54:30	Gathering synonyms
+29.05.2022 14:54:32	Gathering defaults
+29.05.2022 14:54:32	Gathering data constraint uddt bindings
+29.05.2022 14:54:32	Gathering rules
+29.05.2022 14:54:32	Gathering data constraint uddt bindings
+29.05.2022 14:54:32	Gathering message types
+29.05.2022 14:54:32	Gathering queues
+29.05.2022 14:54:32	Gathering contracts
+29.05.2022 14:54:32	Gathering services
+29.05.2022 14:54:32	Gathering event notifications
+29.05.2022 14:54:32	Gathering remote service bindings
+29.05.2022 14:54:32	Gathering broker priorities
+29.05.2022 14:54:32	Gathering signatures
+29.05.2022 14:54:32	Gathering data compression options
+29.05.2022 14:54:32	Gathering sequence types
+29.05.2022 14:54:32	Gathering security policies
+29.05.2022 14:54:32	Gather column encryption keys
+29.05.2022 14:54:32	Gathering column master keys
+29.05.2022 14:54:32	Gathering external data sources
+29.05.2022 14:54:32	Gathering external file formats
+29.05.2022 14:54:32	Gathering external tables
+29.05.2022 14:54:32	Gathering extended properties
+29.05.2022 14:54:32	Gathering credentials
+29.05.2022 14:54:32	Gathering logins
+29.05.2022 14:54:32	Gathering server audits
+29.05.2022 14:54:37	Scanning project for duplicate elements
+29.05.2022 14:54:37	Finished duplicate element processing
+29.05.2022 14:54:37	Finished importing database.
+29.05.2022 14:54:37	A summary of the import was saved to the following location: C:\Users\bober\source\repos\Database1\Import Schema Logs\Database1_20220529125404.log
+29.05.2022 14:54:37	Click Finish to continue...
